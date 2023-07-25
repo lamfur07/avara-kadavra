@@ -1,4 +1,4 @@
-# LLM-chain Rust Template Repository -
+# LLM-chain Rust Template Repository
 
 Welcome to the llm-chain Rust template repository! This repository helps you get started with using the llm-chain library in your Rust 
 projects. The main source file, `src/main.rs`, contains example code to demonstrate basic usage of the llm-chain library.
